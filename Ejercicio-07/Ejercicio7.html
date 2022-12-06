@@ -1,0 +1,232 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+
+<head>
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="author" content="Jairo García Castro - UO271449" />
+    <meta name="description"
+        content="Página principal del sitio web, con una descripción del framework Angular y un resumen de su historia." />
+    <meta name="keywords" content="framework, Angular, AngularJS, desarrollo web, software" />
+
+    <title>Angular Framework</title>
+    <link rel="stylesheet" type="text/css" href="Ejercicio7.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="Ejercicio7.js"></script>
+</head>
+
+<body>
+    <main>
+        <article>
+            <h2>¿Qué es Angular?</h2>
+            
+            <section>
+                <h3>Breve explicación</h3>
+                <input type="button" value="Mostrar/Ocultar" onclick="s1.hideOrShow($(this))"/>
+                <section>
+                    <h4>Descripción</h4>
+                    <p>
+                        Angular (comúnmente llamado Angular 2+ o Angular 2) es un framework para aplicaciones web
+                        desarrollado
+                        en TypeScript, de código abierto y mantenido por Google, que se utiliza para crear y
+                        mantener
+                        aplicaciones
+                        web de una sola página.
+                    </p>
+                </section>
+                <section>
+                    <h4>Objetivos</h4>
+                    <p>
+                        Su objetivo es aumentar las aplicaciones basadas en navegador con capacidad de Modelo Vista
+                        Controlador (MVC),
+                        en un esfuerzo para hacer que el desarrollo y las pruebas sean más fáciles.
+                    </p>
+                </section>
+                <section>
+                    <h4>Funcionamiento</h4>
+                    <p>
+                        La biblioteca lee el HTML que contiene atributos de las etiquetas personalizadas
+                        adicionales,
+                        entonces obedece
+                        a las directivas de los atributos personalizados, y une las piezas de entrada o salida de la
+                        página
+                        a un modelo
+                        representado por las variables estándar de JavaScript.
+                        Angular se basa en clases tipo "Componentes", cuyas propiedades son las usadas para hacer el
+                        binding
+                        de los datos.
+                        En dichas clases tenemos propiedades (variables) y métodos (funciones a llamar).
+                    </p>
+                </section>
+            </section>
+
+            <section>
+                <h3>Historia</h3>
+                <input type="button" value="Mostrar/Ocultar" onclick="s2.hideOrShow($(this))"/>     
+                <section>
+                    <h4>Sobre AngularJS</h4>
+                    <p>
+                        Angular es una de las soluciones más conocidas para el desarrollo de SPA (aplicación de una
+                        sola
+                        página), además de React y Vue.js. Ha existido durante casi 10 años y ha pasado por
+                        innumerables
+                        ajustes desde entonces. La primera versión del marco, AngularJS, comenzó en 2009 y sentó las
+                        bases
+                        del desarrollo actual de aplicaciones front-end.
+                    </p>
+
+                    <p>
+                        A pesar de su éxito, se puede encontrar un montón de deficiencias en el marco, lo que hace
+                        que
+                        AngularJS sea
+                        mitad éxito, mitad fracaso. Su arquitectura y sistema de digestión caótico establecieron
+                        limitaciones a su
+                        rendimiento, sin embargo, su sintaxis de plantilla funcionó tan bien que fue adoptado por
+                        Vue.js.
+                        ( v-if - ng-if, v-model - ng-model).
+                    </p>
+                </section>
+                <section>
+                    <h4>Reescritura de AngularJS</h4>
+                    <p>
+                        La imperfección de AngularJS fue la motivación detrás de la reescritura completa del marco.
+                        Debido a su impredecible sistema de detección de cambios y robustez, los desarrolladores de
+                        Google
+                        necesitaban reescribir el marco. Comenzaron a usar bibliotecas realmente poderosas. Además
+                        de las funciones originales, introdujeron enfoques como la compilación AOT (Ahead-of-Time), la
+                        sacudida de árboles y muchas más.
+                    </p>
+                    <input type="button" value="Leer más" onclick="s3.showMore($(this));"/>
+                </section>
+                <section>
+                    <h4>Diferencias</h4>
+                    <p>
+                        Angular es una reescritura completa de AngularJS (anteriormente conocido como Angular a
+                        secas o
+                        Angular 1.x)
+                        por parte del mismo equipo desarrollador. Las principales ventajas de la nueva versión son:
+                    </p>
+                    <ul>
+                        <li>
+                            <p>
+                                Está orientada a móviles y tiene mejor rendimiento.
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                Ofrece más opciones a la hora de elegir lenguajes.
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                Ya no tiene un concepto de "scope" o controladores, usa una jerarquía de
+                                componentes.
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                Al soportar y recomendar el uso de Typescript, incorpora características como tipado
+                                estático, programación genérica o anotaciones.
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                Compilado asíncrono de plantillas.
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                Llamadas iterativas proporcionadas por RxJS.
+                            </p>
+                        </li>
+
+                        <li>
+                            <p>
+                                Soporte para ejecutar aplicaciones Angular en servidores.
+                            </p>
+                        </li>
+                    </ul>
+                </section>
+                <input type="button" value="Añadir sección" onclick="s3.addNewSection($(this))"/>
+                <input type="button" value="Borrar sección" onclick="s3.deleteLastSection($(this))"/>  
+                
+            </section>
+            <input type="button" value="Concatenar tabla" onclick="s3.concatenateTable()"/>
+            <section>
+                <h3>Últimas Versiones</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Release</th>
+                            <th>Publicada</th>
+                            <th>Soporte activo</th>
+                            <th>Soporte de seguridad</th>
+                            <th>Última versión</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>14 (próxima LTS)</td>
+                            <td>2022/06/02</td>
+                            <td>2022/12/02</td>
+                            <td>2023/12/02</td>
+                            <td><a title="Release en GitHub"
+                                    href="https://github.com/angular/angular/releases/tag/14.2.5">14.2.5</a></td>
+                        </tr>
+                        <tr>
+                            <td>13 (LTS)</td>
+                            <td>2022/11/03</td>
+                            <td>2022/05/04</td>
+                            <td>2023/05/04</td>
+                            <td><a title="Release en GitHub"
+                                    href="https://github.com/angular/angular/releases/tag/13.3.11">13.3.11</a></td>
+                        </tr>
+                        <tr>
+                            <td>12 (LTS)</td>
+                            <td>2021/05/13</td>
+                            <td>2021/11/12</td>
+                            <td>2022/11/12</td>
+                            <td><a title="Release en GitHub"
+                                    href="https://github.com/angular/angular/releases/tag/12.2.16">12.2.16</a></td>
+                        </tr>
+                        <tr>
+                            <td>11 (LTS)</td>
+                            <td>2020/11/11</td>
+                            <td>2021/05/11</td>
+                            <td>2022/15/11</td>
+                            <td>11.2.14</td>
+                        </tr>
+                        <tr>
+                            <td>10 (LTS)</td>
+                            <td>2020/06/24</td>
+                            <td>2020/12/24</td>
+                            <td>2021/12/24</td>
+                            <td>10.2.5</td>
+                        </tr>
+                        <tr>
+                            <td>9 (LTS)</td>
+                            <td>2020/02/06</td>
+                            <td>2020/08/06</td>
+                            <td>2021/08/06</td>
+                            <td>9.1.13</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+        </article>
+    </main>
+    <input type="button" value="Mostrar etiquetas padre" onclick="s3.showParentElements($(this))"/>  
+    <footer>
+        <p>Jairo García Castro. UO271449.</p>
+    </footer>  
+</body>
+
+</html>

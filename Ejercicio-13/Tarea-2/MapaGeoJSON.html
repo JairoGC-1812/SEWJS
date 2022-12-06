@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 13 - Tarea 2</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Jairo García Castro - UO271449" />
+
+    <link rel="stylesheet" type="text/css" href="MapaGeoJSON.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body>
+    <h1>Mapa GeoJSON</h1>
+
+    <label for="file">Seleccione un fichero para representar</label>
+    <input type="file" id="file" onchange="mapaGeoJSON.loadData(this.files[0])"/>
+
+    <main></main>
+    <script src="MapaGeoJSON.js"></script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKGeBhitSe-U3eB9dUTTpLFzh7IeJFaKo&libraries=places&callback=mapaGeoJSON.loadData"></script>
+    <script
+        src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+</body>
+
+</html>

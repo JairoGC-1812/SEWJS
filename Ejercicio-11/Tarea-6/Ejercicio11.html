@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 11 - Tarea 6</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Jairo García Castro - UO271449" />
+
+    <link rel="stylesheet" type="text/css" href="Ejercicio11.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body>
+    <h1>Los mejores sitios en tu zona</h1>
+
+    <label for="search">¿Qué desea buscar?</label>
+    <input type="text" id="search" />
+    <button onclick="executeWithKeyword($('input[type=text]').val())">Search</button>
+    <main></main>
+    <script src="Ejercicio11.js"></script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKGeBhitSe-U3eB9dUTTpLFzh7IeJFaKo&libraries=places&callback=execute"></script>
+    <script
+        src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+</body>
+
+</html>

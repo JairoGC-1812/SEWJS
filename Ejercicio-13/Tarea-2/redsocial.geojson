@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "redsocial",
+"features": [
+{ "type": "Feature", "properties": { "name": " Nacimiento de Jairo García Castro"}, "geometry": { "type": "Point", "coordinates": [ -6.539974, 43.545443 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Jairo García Castro"}, "geometry": { "type": "Point", "coordinates": [ -5.850278, 43.3625 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Laura Gómez Menéndez"}, "geometry": { "type": "Point", "coordinates": [ -6.503051, 43.23876 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Laura Gómez Menéndez"}, "geometry": { "type": "Point", "coordinates": [ -6.068696, 43.389426 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Miguel Gayol Pertierra"}, "geometry": { "type": "Point", "coordinates": [ -6.146501, 43.562305 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Miguel Gayol Pertierra"}, "geometry": { "type": "Point", "coordinates": [ -6.068696, 43.389426 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Luis Sánchez de Posada Orihuela"}, "geometry": { "type": "Point", "coordinates": [ -5.083451, 43.445927 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Luis Sánchez de Posada Orihuela"}, "geometry": { "type": "Point", "coordinates": [ -5.850278, 43.3625 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Pelayo Suárez Gómez"}, "geometry": { "type": "Point", "coordinates": [ -6.549978, 43.177437 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Pelayo Suárez Gómez"}, "geometry": { "type": "Point", "coordinates": [ -6.722648, 43.539063 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Celia Melendi Lavandera"}, "geometry": { "type": "Point", "coordinates": [ -5.660986, 43.391224 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Celia Melendi Lavandera"}, "geometry": { "type": "Point", "coordinates": [ -5.058879, 43.312107 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Elías Llera García-Riaño"}, "geometry": { "type": "Point", "coordinates": [ -5.63889, 43.2875 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Elías Llera García-Riaño"}, "geometry": { "type": "Point", "coordinates": [ -5.90907, 43.589519 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Raquel Cano Pérez"}, "geometry": { "type": "Point", "coordinates": [ -5.80624, 43.401821 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Raquel Cano Pérez"}, "geometry": { "type": "Point", "coordinates": [ -5.819701, 43.633357 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Iván Vega García"}, "geometry": { "type": "Point", "coordinates": [ -6.113866, 43.489674 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Iván Vega García"}, "geometry": { "type": "Point", "coordinates": [ -5.922222, 43.556111 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Sara Ramírez Pérez"}, "geometry": { "type": "Point", "coordinates": [ -5.922222, 43.556111 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Sara Ramírez Pérez"}, "geometry": { "type": "Point", "coordinates": [ -4.416667, 36.716667 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Silvia Suárez Prendes"}, "geometry": { "type": "Point", "coordinates": [ -6.071667, 43.558611 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Silvia Suárez Prendes"}, "geometry": { "type": "Point", "coordinates": [ -6.386754, 43.546894 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Carlos Méndez Prieto"}, "geometry": { "type": "Point", "coordinates": [ -6.064394, 43.555002 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Carlos Méndez Prieto"}, "geometry": { "type": "Point", "coordinates": [ -7.557222, 43.011667 ] } },
+{ "type": "Feature", "properties": { "name": " Nacimiento de Ermenegildo Zorrilla Exposito"}, "geometry": { "type": "Point", "coordinates": [ -6.282694, 43.563518 ] } },
+{ "type": "Feature", "properties": { "name": " Residencia de Ermenegildo Zorrilla Exposito"}, "geometry": { "type": "Point", "coordinates": [ -5.566944, 42.598889 ] } }
+]
+}

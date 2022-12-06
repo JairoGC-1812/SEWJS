@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 10</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Jairo García Castro - UO271449" />
+
+    <link rel="stylesheet" type="text/css" href="Ejercicio10.css" />    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body>
+    <h1>Precio del petróleo</h1>
+    <p></p>
+    <label for="opcion">Seleccione el tipo de petróleo</label>
+    <select id="opcion" name="opcion" onchange="oil.obtainPrices()">
+        <option value="BRENTOIL">Petróleo crudo de Brent</option>
+        <option value="WTIOIL">Petróleo de West Texas Intermediate</option>
+        <option value="LGOU22">Gasóleo de Londres</option>
+        <option value="HOU22">Petróleo de calefacción</option>
+    </select>
+
+    <script src="Ejercicio10.js"></script>
+</body>
+
+</html>

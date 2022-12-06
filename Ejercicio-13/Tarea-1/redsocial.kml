@@ -1,0 +1,213 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<kml xmlns=" http://www.opengis.net/kml/2.2 ">
+<Document>
+<Placemark>
+<name> Nacimiento de Jairo García Castro</name>
+<Point>
+<coordinates>
+-6.539974,43.545443,40
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Jairo García Castro</name>
+<Point>
+<coordinates>
+-5.850278,43.3625,231
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Laura Gómez Menéndez</name>
+<Point>
+<coordinates>
+-6.503051,43.23876,393
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Laura Gómez Menéndez</name>
+<Point>
+<coordinates>
+-6.068696,43.389426,65
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Miguel Gayol Pertierra</name>
+<Point>
+<coordinates>
+-6.146501,43.562305,13
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Miguel Gayol Pertierra</name>
+<Point>
+<coordinates>
+-6.068696,43.389426,65
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Luis Sánchez de Posada Orihuela</name>
+<Point>
+<coordinates>
+-5.083451,43.445927,2
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Luis Sánchez de Posada Orihuela</name>
+<Point>
+<coordinates>
+-5.850278,43.3625,231
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Pelayo Suárez Gómez</name>
+<Point>
+<coordinates>
+-6.549978,43.177437,376
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Pelayo Suárez Gómez</name>
+<Point>
+<coordinates>
+-6.722648,43.539063,14
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Celia Melendi Lavandera</name>
+<Point>
+<coordinates>
+-5.660986,43.391224,220
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Celia Melendi Lavandera</name>
+<Point>
+<coordinates>
+-5.058879,43.312107,257
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Elías Llera García-Riaño</name>
+<Point>
+<coordinates>
+-5.63889,43.2875,303
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Elías Llera García-Riaño</name>
+<Point>
+<coordinates>
+-5.90907,43.589519,61
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Raquel Cano Pérez</name>
+<Point>
+<coordinates>
+-5.80624,43.401821,170
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Raquel Cano Pérez</name>
+<Point>
+<coordinates>
+-5.819701,43.633357,98
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Iván Vega García</name>
+<Point>
+<coordinates>
+-6.113866,43.489674,68
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Iván Vega García</name>
+<Point>
+<coordinates>
+-5.922222,43.556111,8
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Sara Ramírez Pérez</name>
+<Point>
+<coordinates>
+-5.922222,43.556111,8
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Sara Ramírez Pérez</name>
+<Point>
+<coordinates>
+-4.416667,36.716667,8
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Silvia Suárez Prendes</name>
+<Point>
+<coordinates>
+-6.071667,43.558611,5
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Silvia Suárez Prendes</name>
+<Point>
+<coordinates>
+-6.386754,43.546894,90
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Carlos Méndez Prieto</name>
+<Point>
+<coordinates>
+-6.064394,43.555002,116
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Carlos Méndez Prieto</name>
+<Point>
+<coordinates>
+-7.557222,43.011667,462
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Nacimiento de Ermenegildo Zorrilla Exposito</name>
+<Point>
+<coordinates>
+-6.282694,43.563518,125
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Residencia de Ermenegildo Zorrilla Exposito</name>
+<Point>
+<coordinates>
+-5.566944,42.598889,837
+</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

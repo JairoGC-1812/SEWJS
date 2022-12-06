@@ -1,0 +1,41 @@
+/* 
+=========================================================== 
+    Autor: Jairo García Castro - UO271449
+===========================================================
+*/
+
+/* 0 0 1*/
+body {
+    font-family: Optima, sans-serif;
+    color: black;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+/* 0 0 1*/
+h1 {
+    text-align: center;
+    background-color: #84A2F6;
+    font-size:3em;
+    padding: 1em;
+    border-radius: 0.25em;
+}
+
+/* 0 0 1*/
+h2 {
+    font-size:2em;
+    color: rgb(89, 25, 238);
+    text-align: center;
+}
+
+/* 0 0 1*/
+button {
+    padding: 0.5em;
+    border-radius: 0.5em;
+    background-color: black;
+    color: white;
+    font-size:1em;
+}
+
+

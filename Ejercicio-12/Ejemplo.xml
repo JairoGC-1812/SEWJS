@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<persona nombre="Jairo" apellidos="García Castro" nacimiento="2000-12-18">
+    <lugar-nacimiento nombre="Luarca">
+        <coordenadas latitud="43.545443" longitud="-6.539974" altitud="40" />
+    </lugar-nacimiento>
+    <lugar-residencia nombre="Oviedo">
+        <coordenadas latitud="43.3625" longitud="-5.850278" altitud="231" />
+    </lugar-residencia>
+    <multimedia>
+        <imagen src="https://images.hola.com/imagenes/viajes/20220902216361/cadavedo-pueblo-ejemplar-asturias-2022/1-132-558/cadavedo-regalina-asturias-t.jpg" />
+        <video src="https://www.youtube.com/watch?v=D4QOq8dNE1U" />
+    </multimedia>
+    <comentarios>        
+        El mejor creador de XMLs de la historia
+    </comentarios>
+    <persona nombre="Laura" apellidos="Gómez Menéndez" nacimiento="2001-01-01">
+        <lugar-nacimiento nombre="Tebongo">
+            <coordenadas latitud="43.23876" longitud="-6.503051" altitud="393"></coordenadas>
+        </lugar-nacimiento>
+        <lugar-residencia nombre="Grao">
+            <coordenadas latitud="43.389426" longitud="-6.068696" altitud="65"></coordenadas>
+        </lugar-residencia>
+        <multimedia>
+            <imagen src="https://touspatous.es/wp-content/uploads/2010/03/casas_tebongo.jpg" />
+            <imagen src="https://www.superprof.es/imagenes/anuncios/profesor-home-profesora-lengua-castellana-literatura-latin-lingua-galega-literatura.jpg" />
+        </multimedia>
+        <comentarios>
+            Olee ese Tebongoo
+        </comentarios>
+        <persona nombre="Miguel" apellidos="Gayol Pertierra" nacimiento="2001-05-25">
+            <lugar-nacimiento nombre="Cudillero">
+                <coordenadas latitud="43.562305" longitud="-6.146501" altitud="13"></coordenadas>
+            </lugar-nacimiento>
+            <lugar-residencia nombre="Grao">
+                <coordenadas latitud="43.389426" longitud="-6.068696" altitud="65"></coordenadas>
+            </lugar-residencia>
+            <multimedia>
+                <imagen src="https://phantom-elmundo.unidadeditorial.es/01dd52b62b733ceb2d9dfe1d62d2b31f/f/jpg/assets/multimedia/imagenes/2020/01/22/15797078418825.jpg" />
+                <video src="https://www.youtube.com/watch?v=slxF5Tjt3Xc" />
+            </multimedia>
+            <comentarios>
+                Puxa Grao
+            </comentarios>
+        </persona>
+        <persona nombre="Luis" apellidos="Sánchez de Posada Orihuela" nacimiento="2001-04-28">
+            <lugar-nacimiento nombre="Ribadesella">
+                <coordenadas latitud="43.445927" longitud="-5.083451" altitud="2"></coordenadas>
+            </lugar-nacimiento>
+            <lugar-residencia nombre="Oviedo">
+                <coordenadas latitud="43.3625" longitud="-5.850278" altitud="231" />
+            </lugar-residencia>
+            <multimedia>
+                <imagen src="https://upload.wikimedia.org/wikipedia/commons/0/07/Ribadesella_%28Asturias%29_01.jpg" />
+                <imagen src="https://www.turismoasturias.es/documents/11022/12119/Ribadesella.jpg/fc0c66f2-29d6-4b29-ad93-f5eb9e20e986?t=1539934021721" />
+                <imagen src="https://www.turismoasturias.es/documents/11022/12119/VillaRibadesella1.jpg/7543fead-a618-4191-9ae7-91eb2bcb7cde?t=1532946435857" />
+            </multimedia>
+            <comentarios>
+                El segundo mejor integrante de Croquetas de cocido
+            </comentarios>
+        </persona>
+        <persona nombre="Pelayo" apellidos="Suárez Gómez" nacimiento="1998-05-30">
+            <lugar-nacimiento nombre="Cangas del Narcea">
+                <coordenadas latitud="43.177437" longitud="-6.549978" altitud="376"></coordenadas>
+            </lugar-nacimiento>
+            <lugar-residencia nombre="Navia">
+                <coordenadas latitud="43.539063" longitud="-6.722648" altitud="14"></coordenadas>
+            </lugar-residencia>
+            <multimedia>
+                <imagen src="https://www.turismoasturias.es/documents/11022/1745315/PORTADA_Cangase_del_Narcea-01-B.jpg/e4a448d9-a374-440c-a1cc-da9f6764b854?t=1475232436248" />
+                <imagen src="https://fusionasturias.com/wp-content/uploads/2013/07/cangas-narcea-inicio.jpg" />
+            </multimedia>
+            <comentarios>
+                De las Cangas buenas
+            </comentarios>
+        </persona>
+    </persona>
+
+
+    <persona nombre="Celia" apellidos="Melendi Lavandera" nacimiento="2001-07-02">
+        <lugar-nacimiento nombre="Pola de Siero">
+            <coordenadas latitud="43.391224" longitud="-5.660986" altitud="220"></coordenadas>
+        </lugar-nacimiento>
+        <lugar-residencia nombre="Covadonga">
+            <coordenadas latitud="43.312107" longitud="-5.058879" altitud="257"></coordenadas>
+        </lugar-residencia>
+        <multimedia>
+            <imagen src="https://upload.wikimedia.org/wikipedia/commons/b/b0/La_pola_de_siero_001.jpg" />
+            <imagen src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pola_de_Siero_%28Siero%29_11.jpg/275px-Pola_de_Siero_%28Siero%29_11.jpg" />
+        </multimedia>
+        <comentarios>
+            Lugones capital
+        </comentarios>
+        <persona nombre="Elías" apellidos="Llera García-Riaño" nacimiento="2000-02-27">
+            <lugar-nacimiento nombre="El Entrego">
+                <coordenadas latitud="43.2875" longitud="-5.63889" altitud="303"></coordenadas>
+            </lugar-nacimiento>
+            <lugar-residencia nombre="Llaviana">
+                <coordenadas latitud="43.589519" longitud="-5.90907" altitud="61"></coordenadas>
+            </lugar-residencia>
+            <multimedia>
+                <imagen src="https://www.rtpa.es/fotos//20/06/20200617124815_lavianavtr17concejo.jpg" />
+                <imagen src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Ayunt-Llaviana.jpg" />
+            </multimedia>
+            <comentarios>
+                Mieres ye León
+            </comentarios>
+        </persona>
+        <persona nombre="Raquel" apellidos="Cano Pérez" nacimiento="2001-06-13">
+            <lugar-nacimiento nombre="Lugones">
+                <coordenadas latitud="43.401821" longitud="-5.80624" altitud="170"></coordenadas>
+            </lugar-nacimiento>
+            <lugar-residencia nombre="Bañugues">
+                <coordenadas latitud="43.633357" longitud="-5.819701" altitud="98"></coordenadas>
+            </lugar-residencia>
+            <multimedia>
+                <imagen src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Playadebanugues.jpg/220px-Playadebanugues.jpg" />
+                <video src="https://www.lne.es/sociedad/2021/06/03/banugues-unica-playa-asturiana-aconseja-52578601.html" />
+                <video src="https://www.youtube.com/watch?v=f5X2PXOPYCg" />
+            </multimedia>
+            <comentarios>
+                De Siero a Gozón y a pol mundo
+            </comentarios>
+        </persona>
+        <persona nombre="Iván" apellidos="Vega García" nacimiento="2001-08-24">
+            <lugar-nacimiento nombre="Pravia">
+                <coordenadas latitud="43.489674" longitud="-6.113866" altitud="68"></coordenadas>
+            </lugar-nacimiento>
+            <lugar-residencia nombre="Avilés">
+                <coordenadas latitud="43.556111" longitud="-5.922222" altitud="8"></coordenadas>
+            </lugar-residencia>
+            <multimedia>
+                <imagen src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/PA120228_Pravia.jpg/266px-PA120228_Pravia.jpg" />
+                <imagen src="https://www.turismoasturias.es/documents/11022/3572964/Panoramica+1_Sabugo_Portada.jpg/205128da-1a59-4e27-a994-a1ee94537dae?t=1538644927684" />
+            </multimedia>
+            <comentarios>
+                Yo qué sé nin
+            </comentarios>
+        </persona>
+    </persona>
+
+
+    <persona nombre="Sara" apellidos="Ramírez Pérez" nacimiento="2001-03-05">
+        <lugar-nacimiento nombre="Avilés">
+            <coordenadas latitud="43.556111" longitud="-5.922222" altitud="8"></coordenadas>
+        </lugar-nacimiento>
+        <lugar-residencia nombre="Málaga">
+            <coordenadas latitud="36.716667" longitud="-4.416667" altitud="8"></coordenadas>
+        </lugar-residencia>
+        <multimedia>
+            <imagen src="https://pbs.twimg.com/profile_images/974780313732820994/BPSIEqws_400x400.jpg" />
+            <video src="https://www.youtube.com/watch?v=TtB8UXWqlNY" />
+        </multimedia>
+        <comentarios>
+            Un prieto picudo por favor
+        </comentarios>
+
+        <persona nombre="Silvia" apellidos="Suárez Prendes" nacimiento="2001-02-27">
+            <lugar-nacimiento nombre="San Juan de la Arena">
+                <coordenadas latitud="43.558611" longitud="-6.071667" altitud="5"></coordenadas>
+            </lugar-nacimiento>
+            <lugar-residencia nombre="Cadaveo">
+                <coordenadas latitud="43.546894" longitud="-6.386754" altitud="90"></coordenadas>
+            </lugar-residencia>
+            <multimedia>
+                <imagen src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cadavedo_%28Vald%C3%A9s%2C_Asturias%29.jpg/266px-Cadavedo_%28Vald%C3%A9s%2C_Asturias%29.jpg" />
+                <video src="https://www.youtube.com/watch?v=oBksS6gL6vw" />
+            </multimedia>
+            <comentarios>
+                La mejor integrante de Croquetas de Cocido
+            </comentarios>
+        </persona>
+
+        <persona nombre="Carlos" apellidos="Méndez Prieto" nacimiento="1995-04-16">
+            <lugar-nacimiento nombre="Ranón">
+                <coordenadas latitud="43.555002" longitud="-6.064394" altitud="116"></coordenadas>
+            </lugar-nacimiento>
+            <lugar-residencia nombre="Lugo">
+                <coordenadas latitud="43.011667" longitud="-7.557222" altitud="462"></coordenadas>
+            </lugar-residencia>
+            <multimedia>
+                <imagen src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Palco_de_la_musica_%28Parque_Rosalia%29.001_-_Lugo.jpg/131px-Palco_de_la_musica_%28Parque_Rosalia%29.001_-_Lugo.jpg" />
+                <imagen src="https://media.quincemil.com/imagenes/2020/10/30192937/dreamstime_xxl_133585669-copia-1-640x360.jpg" />
+            </multimedia>
+            <comentarios>
+                Hola soy Carlos y soy nuevo aquí
+            </comentarios>
+        </persona>
+
+        <persona nombre="Ermenegildo" apellidos="Zorrilla Exposito" nacimiento="2004-11-23">
+            <lugar-nacimiento nombre="Novellana">
+                <coordenadas latitud="43.563518" longitud="-6.282694" altitud="125"></coordenadas>
+            </lugar-nacimiento>
+            <lugar-residencia nombre="León">
+                <coordenadas latitud="42.598889" longitud="-5.566944" altitud="837"></coordenadas>
+            </lugar-residencia>
+            <multimedia>
+                <imagen src="https://www.viajandoando.es/fotos/asturias/cudillero/playadelsilencio/webFS3B8338.jpg" />
+                <video src="https://www.youtube.com/watch?v=zxsBEM5Hfcw" />
+            </multimedia>
+            <comentarios>
+                Ya toi sin ideas
+            </comentarios>
+        </persona>
+    </persona>
+</persona>
